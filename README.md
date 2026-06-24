@@ -15,6 +15,7 @@ You can view the live version of my project here:
 
 ## 📸 Preview
 ![Project Screenshot](img/12s.png)
+<img src="img/12s.png" width="600" alt="Project Screenshot">
 
 
 ---
