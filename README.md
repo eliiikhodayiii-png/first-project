@@ -14,7 +14,7 @@ You can view the live version of my project here:
 [https://eliiikhodayiii-png.github.io/first-project/](https://eliiikhodayiii-png.github.io/first-project/)
 
 ## 📸 Preview
-![Project Screenshot]()
+![Project Screenshot](img/12s.png)
 
 
 ---
